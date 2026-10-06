@@ -90,7 +90,7 @@ tests/
 
 ## Roadmap
 
-- [ ] **Phase 0 – Setup:** repo, Vite + React + TS, Tailwind, ESLint/Prettier, CI, deploy hello world to Cloudflare Pages.
+- [ ] **Phase 0 – Setup:** repo, Vite + React + TS, Tailwind, ESLint/Prettier, CI, deploy hello world to Cloudflare Pages. _(Everything done except connecting Cloudflare Pages; see PROGRESS.md.)_
 - [ ] **Phase 1 – Canvas:** pointer events, pressure, coalesced events, DPR scaling, undo/clear, palm rejection, vector stroke storage. Test on real devices. Don't move on until it feels good.
 - [ ] **Phase 2 – Session loop:** timer, pose queue, preloading, pause/skip, session config screen (durations, pose count, nudity toggle). Hardcoded test images. Unit tests for timer/state.
 - [ ] **Phase 3 – Saving & gallery:** IndexedDB per-pose saves, end-of-session gallery, ZIP + contact-sheet export. → **MVP: share for feedback.**
